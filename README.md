@@ -1,4 +1,4 @@
-# Roguelike Visiblity (Unity / C#)
+# Roguelike Visibility (Unity / C#)
 
 ![Roguelike visibility](/doc/roguelike_visibility.gif)
 
