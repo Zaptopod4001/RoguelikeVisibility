@@ -5,7 +5,7 @@
 ## What is it?
 A Unity project I created to learn how to create a typical roguelike visibility system. In this case, I haven't yet tried to implement Bresenham's line algorithm, so I used a custom solution I cooked up. 
 
-This specific solution is using Unity's Bounds struct - it contains really nice IntersectRay method, that can be used for pretty performant ray-bounds intersection test to see which cells fall into visibility lines path.
+This specific solution is using Unity's Bounds struct - it contains really nice IntersectRay method, that can be used for pretty performant ray-bounds intersection test to see which cells fall into visibility line's path.
 
 I also did a shadow casting, each ray stops to closest wall - this wouldn't actually be a roguelike visibility system unless there is occlusion!
  
