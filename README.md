@@ -18,7 +18,7 @@ Test class that shows how to use visibility checker class.
 The actual class that does line of sight and visibility circle calculations.
 
 # About
-I created this visibility calculation system for myself as a learning experience.
+I created this visibility calculation class for myself as a learning experience.
 
 # Copyright 
 Created by Sami S. use of any kind without a written permission from the author is not allowed. But feel free to take a look.
